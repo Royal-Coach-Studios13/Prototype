@@ -89,13 +89,16 @@ color:#45A29E;
 
 .button3 {font-size: 25px;
 background-color:#45A29E;
+font-size: 25px;
+background-color: #45A29E;
+padding: 10px;
+border: none;
+border-radius: 5px;
+color: white;
 }
 
 
-.button2 {font-size:25px;
-background-color:#45A29E;
 
-}
 
 
 
